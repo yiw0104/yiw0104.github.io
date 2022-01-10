@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Welcome"
+excerpt: "Welcome"
 author_profile: true
 redirect_from: 
   - /about/
@@ -13,9 +13,3 @@ I am a Ph.D. candidate in the Humphrey School of Public Affairs at the Universit
 My interests are broadly in the areas of housing, urban redevelopment, and migration.
 
 Please feel free to contact me at: wang8262@umn.edu
-
-Education
-======
-* Ph.D. in Public Affairs, University of Minnesota (Expected 2023))
-* Master of Urban Planning, Tsinghua University (2018)
-* Bachelor of Engineering in Urban Planning, Tianjin University (2015)
