@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in [the Humphrey School of Public Affairs](https://www.hhh.umn.edu/doctor-philosophy-phd-public-affairs/phd-students/yi-wang) at the University of Minnesota.  I am also a Population Studies Trainee at [the Minnesota Population Center (MPC)](https://pop.umn.edu/content/yi-wang).
+I am a Ph.D. candidate in the [Humphrey School of Public Affairs](https://www.hhh.umn.edu/doctor-philosophy-phd-public-affairs/phd-students/yi-wang) at the University of Minnesota. I am also a Population Studies Trainee at the [Minnesota Population Center (MPC)](https://pop.umn.edu/content/yi-wang).
 
 My interests are broadly in the areas of housing, urban redevelopment, and migration.
 
