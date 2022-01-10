@@ -2,7 +2,7 @@
 title: "No Place in the City: The Segregation of Affordable Formal Private Rentals in Beijing"
 collection: publications
 permalink: /publication/2021-04-07-paper-title-number-2
-excerpt: [https://doi.org/10.1080/10511482.2020.1858925](https://doi.org/10.1080/10511482.2020.1858925)
+excerpt: '[https://doi.org/10.1080/10511482.2020.1858925](https://doi.org/10.1080/10511482.2020.1858925)'
 date: 2021-04-07
 venue: 'Housing Policy Debate'
 paperurl: 
