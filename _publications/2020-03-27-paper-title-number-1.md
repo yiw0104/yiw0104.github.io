@@ -5,7 +5,7 @@ permalink: /publication/2020-03-27-paper-title-number-1
 excerpt: 
 date: 2020-03-27
 venue: 'Housing Policy Debate'
-paperurl: 'https://www.tandfonline.com/doi/full/10.1080/10511482.2020.1726984'
-citation: 
+paperurl: 
+citation: 'https://www.tandfonline.com/doi/full/10.1080/10511482.2020.1726984'
 ---
 Exclusionary land-use policies implemented by local governments over decades have contributed to the spatial concentration of publicly subsidized housing in central cities and the development and preservation of affluent, racially homogeneous communities elsewhere. Various policy responses have been developed to overcome local regulatory barriers. In this article we examine one of the longest-standing initiatives, the Chapter 40B permit override policy of the State of Massachusetts, and the pattern of subsidized housing development across all municipalities in the state. Between 1997 and 2017, the subsidized housing stock in Massachusetts increased by 58,975 units, rising from 7.8% of the housing stock statewide to 9.2%. Within the Boston metropolitan area, the subsidized stock increased by 37,417 units over this time period, increasing from 9.2% to 10.3% of the metro area’s housing. Cities and towns in Massachusetts made steady progress in subsidized housing production over these years but did so unevenly. Boston metro area cities made the most progress. Multivariate analysis indicates that cities with higher percentage white population produced the least subsidized housing over the study period.
