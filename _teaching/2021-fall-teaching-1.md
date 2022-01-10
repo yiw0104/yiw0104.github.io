@@ -1,5 +1,5 @@
 ---
-title: "Instructor, PA 5932 - Working with Data: Finding, Managing, and Using Data"
+title: "Instructor - PA 5932 Working with Data: Finding, Managing, and Using Data"
 collection: teaching
 type: "Graduate-level course"
 permalink: /teaching/2021-fall-teaching-1

@@ -1,6 +1,6 @@
 ---
 title: "2021 Medtronic Twin Cities Marathon"
-excerpt: "<br/><img src='/images/TCM2021.png'>"
+excerpt: "<br/><img src='/images/TCM2021.png' width="300" height="300">"
 collection: gallery
 ---
 
