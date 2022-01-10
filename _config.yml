@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yi Wang"
 title_separator          : "-"
 name                     : &name "Yi Wang"
-description              : &description "PhD Candidate at University of Minnesota"
+description              : &description "PhD Candidate at the University of Minnesota"
 url                      : https://yiw0104.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yiw0104.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yi Wang"
   avatar           : "profile.png"
-  bio              : "Ph.D. Candidate, Humphrey School of Public Affairs, University of Minnesota"
+  bio              : 
   location         : "Minneapolis, MN"
   employer         :
   pubmed           : 
