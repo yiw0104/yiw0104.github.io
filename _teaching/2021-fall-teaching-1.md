@@ -1,7 +1,7 @@
 ---
 title: "Instructor, PA 5932 - Working with Data: Finding, Managing, and Using Data"
 collection: teaching
-type: "Graduate course"
+type: "Graduate-level course"
 permalink: /teaching/2021-fall-teaching-1
 venue: "University of Minnesota"
 date: 2021-09-01
