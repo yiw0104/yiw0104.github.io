@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in the Humphrey School of Public Affairs at the University of Minnesota. I am also a Population Studies Trainee at the Minnesota Population Center (MPC).
+I am a Ph.D. candidate in the Humphrey School of Public Affairs at the University of Minnesota. 
+I am also a Population Studies Trainee at the Minnesota Population Center (MPC).
 
 My interests are broadly in the areas of housing, urban redevelopment, and migration.
 
