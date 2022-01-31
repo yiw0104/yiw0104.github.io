@@ -5,3 +5,5 @@ collection: gallery
 ---
 
 August 2020
+
+<img src='/images/flowers.jpg'>

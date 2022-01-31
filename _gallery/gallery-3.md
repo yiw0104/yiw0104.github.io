@@ -5,3 +5,5 @@ collection: gallery
 ---
 
 March 2020
+
+<img src='/images/sloth.jpg'>

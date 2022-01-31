@@ -5,3 +5,5 @@ collection: gallery
 ---
 
 December 2018
+
+<img src='/images/hutong.jpg'>
