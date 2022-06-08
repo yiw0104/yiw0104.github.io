@@ -1,9 +1,9 @@
 ---
-title: "Sloth (Acrylic)"
-excerpt: "<br/><img src='/images/sloth.jpg'>"
+title: "Flowers (Acrylic)"
+excerpt: "<br/><img src='/images/flowers.jpg'>"
 collection: gallery
 ---
 
-March 2020
+August 2020
 
-<img src='/images/sloth.jpg'>
+<img src='/images/flowers.jpg'>

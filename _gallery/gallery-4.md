@@ -1,9 +1,9 @@
 ---
-title: "Hutong (Watercolor)"
-excerpt: "<br/><img src='/images/hutong.jpg'>"
+title: "Sloth (Acrylic)"
+excerpt: "<br/><img src='/images/sloth.jpg'>"
 collection: gallery
 ---
 
-December 2018
+March 2020
 
-<img src='/images/hutong.jpg'>
+<img src='/images/sloth.jpg'>
