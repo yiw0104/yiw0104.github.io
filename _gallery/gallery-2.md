@@ -4,7 +4,7 @@ excerpt: "<br/><img src='/images/TCM2021.png'>"
 collection: gallery
 ---
 
-October 3, 2021
+October 3, 2021   
 Race Time: 5:10:12
 
 <img src='/images/TCM2021.png'>

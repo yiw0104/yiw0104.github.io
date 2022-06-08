@@ -4,7 +4,7 @@ excerpt: "<br/><img src='/images/RnR2022.jpg'>"
 collection: gallery
 ---
 
-Jun 5, 2022
+Jun 5, 2022   
 Race Time: 02:17:31
 
 <img src="/images/RnR2022.jpg" width="600" height="600">
