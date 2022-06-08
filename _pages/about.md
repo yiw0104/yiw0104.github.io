@@ -14,4 +14,3 @@ My interests are broadly in the areas of housing, urban redevelopment, and migra
 
 Please feel free to contact me at: wang8262@umn.edu
 
-[Supplement to my PAA 2022 Poster](https://yiw0104.github.io/files/PAA2022_20220407.pdf)
