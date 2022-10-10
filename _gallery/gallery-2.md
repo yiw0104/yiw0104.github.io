@@ -7,4 +7,4 @@ collection: gallery
 Jun 5, 2022   
 Race Time: 02:17:31
 
-<img src="/images/RnR2022-600x600.jpg" width="400" height="400">
+<img src="/images/RnR2022-600x600.jpg">

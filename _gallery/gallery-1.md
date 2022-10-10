@@ -7,4 +7,4 @@ collection: gallery
 Oct 2, 2022   
 Race Time: 04:57:48
 
-<img src="/images/TCM2022.jpg" width="400" height="400">
+<img src="/images/TCM2022.jpg">
