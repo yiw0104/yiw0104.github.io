@@ -10,5 +10,6 @@ location: "Delft, Netherlands"
 ---
 
 [Poster](https://yiw0104.github.io/files/Portfolio_AMA.pdf)
+
 <img src="/images/Portfolio_AMA.jpg" width="400" height="400">
 
