@@ -1,5 +1,5 @@
 ---
-title: "FREE INFORMATION ZONE: AN URBAN ECOSYSTEM FOR 21st CENTURY PRODUCTION"
+title: "Free Information Zone: An Urban Ecosystem for 21st Century Production"
 excerpt: "<br/><img src='/images/Portfolio_Minsheng.jpg'>"
 collection: portfolio
 type: "MIT-THU Joint Urban Design Studio"
