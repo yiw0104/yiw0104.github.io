@@ -1,5 +1,5 @@
 ---
-title: "(EM)Powering AMA"
+title: "(EM)Powering Amsterdam Metropolitan Area"
 excerpt: "<br/><img src='/images/Portfolio_AMA.jpg'>"
 collection: portfolio
 type: "R&D Studio"
@@ -11,5 +11,5 @@ location: "Delft, Netherlands"
 
 [Poster](https://yiw0104.github.io/files/Portfolio_AMA.pdf)
 
-<img src="/images/Portfolio_AMA.jpg" width="400" height="400">
+<img src="/images/Portfolio_AMA.jpg" width="600" height="600">
 
