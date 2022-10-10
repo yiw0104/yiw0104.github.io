@@ -15,4 +15,5 @@ The dependence of the economy on fossil fuels and the lack of stringent policies
 
 <img src="/images/Portfolio_AMA1.png">
 
+<img src="/images/Portfolio_AMA2.jpg">
 
