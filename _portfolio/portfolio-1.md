@@ -1,5 +1,5 @@
 ---
-title: "Phytoremediation driven energy crops production on wastescapes"
+title: "Phytoremediation-Driven Energy Crops Production on Wastescapes"
 excerpt: "<br/><img src='/images/Portfolio_Phytoremediation.jpg'>"
 collection: portfolio
 type: "Geo-Design for a Circular Economy"
