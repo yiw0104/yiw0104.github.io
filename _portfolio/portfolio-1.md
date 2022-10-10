@@ -9,9 +9,7 @@ date: 2017-07-02
 location: "Delft, Netherlands"
 ---
 
-[Poster](https://yiw0104.github.io/files/Portfolio_Phytoremediation.pdf)
-
-[News](http://h2020repair.eu/final-presentations-repair-course-geo-design-circular-economy-delft/)
+ / [Poster](https://yiw0104.github.io/files/Portfolio_Phytoremediation.pdf) / [News](http://h2020repair.eu/final-presentations-repair-course-geo-design-circular-economy-delft/) /
 
 Anthropogenic activities have created landscapes with high levels of metal and metalloid element soil contamination. Sites with high levels of contaminants pose a human health risk through direct contact, inhalation, or consumption due to infiltration to groundwater aquifers (Nriagu et al. 1988). Additionally, negative impacts also occur to the local ecosystem,
 through changes to soil chemistry, eradication of microorganisms, or biomagnification. We will use the term “wastescape” to describe these landscapes that have been contaminated and abandoned.
@@ -23,5 +21,5 @@ Phytoremediation offers a low cost solar energy driven means to extracting the c
 planet, profit. Fenced off and derelict sites can be landscaped into attractive natural areas. The phytoremediators over time improves the soil and water by removing contaminates. Lastly, the phytoremediators are harvestable for production of sustainable energy and metals or foundational materials, such as concrete reagents(Jiang, et al. 2015)(Pidlisnyuk, et al.
 2014). Bio-ore mining is possible when the concentration of metals in the remediating plants is high, the cost for extracting the metal from the plant is low, and the metal’s market value is high.
 
-<img src="/images/Portfolio_Phytoremediation.jpg" width="600" height="600">
+<img src="/images/Portfolio_Phytoremediation.jpg">
 
