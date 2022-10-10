@@ -1,6 +1,6 @@
 ---
 title: "Phytoremediation-Driven Energy Crops Production on Wastescapes"
-excerpt: "<br/><img src='/images/Portfolio_Phytoremediation.jpg'>"
+excerpt: "<br/><img src='/images/Portfolio_Phytoremediation.png'>"
 collection: portfolio
 type: "Geo-Design for a Circular Economy"
 permalink: /portfolio/Phytoremediation
@@ -21,5 +21,5 @@ Phytoremediation offers a low cost solar energy driven means to extracting the c
 planet, profit. Fenced off and derelict sites can be landscaped into attractive natural areas. The phytoremediators over time improves the soil and water by removing contaminates. Lastly, the phytoremediators are harvestable for production of sustainable energy and metals or foundational materials, such as concrete reagents(Jiang, et al. 2015)(Pidlisnyuk, et al.
 2014). Bio-ore mining is possible when the concentration of metals in the remediating plants is high, the cost for extracting the metal from the plant is low, and the metal’s market value is high.
 
-<img src="/images/Portfolio_Phytoremediation.jpg">
+<img src="/images/Portfolio_Phytoremediation.png">
 
