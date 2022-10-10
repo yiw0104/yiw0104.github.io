@@ -9,10 +9,11 @@ date: 2016-06-16
 location: "Beijing, China"
 ---
 
+[Poster](https://yiw0104.github.io/files/Portfolio_Minsheng.pdf)
+
 This project is based on information as the seed of a new kind of production, one fit for the 21st century. It is the production of knowledge, which, in our urban ecosystem, is tested, shared, and then archived and curated to inform the new waves of knowledge in the future. This information seed is what attracts the various stakeholders from Shanghai and the world and what creates a thriving, balanced ecosystem of knowledge production and sharing. This vibrant environment in turn
 attracts others for different reasons--for cultural events, for shopping, for restaurants, for a beautiful waterfront, for daily recreation, for medical consultation, and for the contemporary experience of Chinese space.
 
-[Poster](https://yiw0104.github.io/files/Portfolio_Minsheng.pdf)
 
 <img src="/images/Portfolio_Minsheng.jpg" width="600" height="600">
 
