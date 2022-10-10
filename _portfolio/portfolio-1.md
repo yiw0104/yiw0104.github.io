@@ -2,7 +2,7 @@
 title: "Phytoremediation-Driven Energy Crops Production on Wastescapes"
 excerpt: "<br/><img src='/images/Portfolio_Phytoremediation.jpg'>"
 collection: portfolio
-type: "[Geo-Design for a Circular Economy](http://h2020repair.eu/final-presentations-repair-course-geo-design-circular-economy-delft/)"
+type: "Geo-Design for a Circular Economy"
 permalink: /portfolio/Phytoremediation
 venue: "Delft University of Technology"
 date: 2017-07-02
@@ -10,6 +10,8 @@ location: "Delft, Netherlands"
 ---
 
 [Poster](https://yiw0104.github.io/files/Portfolio_Phytoremediation.pdf)
+
+[News](http://h2020repair.eu/final-presentations-repair-course-geo-design-circular-economy-delft/)
 
 Anthropogenic activities have created landscapes with high levels of metal and metalloid element soil contamination. Sites with high levels of contaminants pose a human health risk through direct contact, inhalation, or consumption due to infiltration to groundwater aquifers (Nriagu et al. 1988). Additionally, negative impacts also occur to the local ecosystem,
 through changes to soil chemistry, eradication of microorganisms, or biomagnification. We will use the term “wastescape” to describe these landscapes that have been contaminated and abandoned.
