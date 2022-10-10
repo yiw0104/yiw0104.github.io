@@ -24,11 +24,10 @@ within existing urban fabric.
 The studio program is a rethink on how public spaces and in buildings are planned and connected; and the notion of mobility addressed in a compact city.
 
 The studio would map half a square kilometer of a city and strategize an urban planning model that consider:
-1. usability,
-2. diversity,
-3. connectivity and mobility,
-4. sustainability (technology, social and environmental), including
-5. program mix/optimization within buildings, between building and public open spaces.
+1. usability
+2. diversity
+3. connectivity and mobility
+4. sustainability (technology, social and environmental)
 
 The first part (3 weeks) of the studio is research, forum and developing a planning model at group level. The latter part which is individual effort translates the planning ambition into design narrative.
 
