@@ -2,7 +2,7 @@
 title: "Free Information Zone: An Urban Ecosystem for 21st Century Production"
 excerpt: "<br/><img src='/images/Portfolio_Minsheng.jpg'>"
 collection: portfolio
-type: "MIT-THU Joint Urban Design Studio"
+type: "MIT-THU-SJU Joint Urban Design Studio"
 permalink: /portfolio/Minsheng
 venue: "Tsinghua University"
 date: 2016-06-16
