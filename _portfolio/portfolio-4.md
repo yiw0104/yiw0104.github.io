@@ -4,7 +4,7 @@ excerpt: "<br/><img src='/images/Portfolio_Mobility.jpg'>"
 collection: portfolio
 type: "Year 4 Studio"
 permalink: /portfolio/Mobility
-venue: "National University of Singapore (NUS)"
+venue: "National University of Singapore"
 date: 2013-11-11
 location: "Singapore"
 ---
