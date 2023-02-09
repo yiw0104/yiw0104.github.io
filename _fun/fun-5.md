@@ -1,7 +1,7 @@
 ---
 title: "Sloth"
 excerpt: "<br/><img src='/images/sloth.jpg'>"
-collection: gallery
+collection: fun
 ---
 
 March 2020

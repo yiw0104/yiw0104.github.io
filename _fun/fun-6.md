@@ -1,7 +1,7 @@
 ---
 title: "Hutong"
 excerpt: "<br/><img src='/images/hutong.jpg'>"
-collection: gallery
+collection: fun
 ---
 
 December 2018

@@ -1,7 +1,7 @@
 ---
 title: "2021 Medtronic Twin Cities Marathon"
 excerpt: "<br/><img src='/images/TCM2021.png'>"
-collection: gallery
+collection: fun
 ---
 
 October 3, 2021   

@@ -1,7 +1,7 @@
 ---
 title: "Flowers"
 excerpt: "<br/><img src='/images/flowers.jpg'>"
-collection: gallery
+collection: fun
 ---
 
 August 2020
