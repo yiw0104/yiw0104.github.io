@@ -1,10 +1,10 @@
 ---
-title: "2021 Medtronic Twin Cities Marathon"
-excerpt: "<br/><img src='/images/TCM2021.png'>"
+title: "2022 Rock 'n' Roll San Diego Half Marathon"
+excerpt: "<br/><img src='/images/RnR2022-600x600.jpg'>"
 collection: fun
 ---
 
-October 3, 2021   
-Race Time: 5:10:12
+Jun 5, 2022   
+Race Time: 02:17:31
 
-<img src='/images/TCM2021.png'>
+<img src="/images/RnR2022-600x600.jpg">

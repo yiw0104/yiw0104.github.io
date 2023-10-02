@@ -1,10 +1,10 @@
 ---
-title: "2022 Medtronic Twin Cities Marathon"
-excerpt: "<br/><img src='/images/TCM2022.jpg'>"
+title: "2023 Portland Marathon"
+excerpt: "<br/><img src='/images/PM2023.jpg'>"
 collection: fun
 ---
 
-Oct 2, 2022   
-Race Time: 04:57:48
+Oct 1, 2023   
+Race Time: 05:06:05
 
-<img src="/images/TCM2022.jpg">
+<img src="/images/PM2023.jpg">

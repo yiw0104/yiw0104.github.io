@@ -1,10 +1,10 @@
 ---
-title: "Flowers"
-excerpt: "<br/><img src='/images/flowers.jpg'>"
+title: "2021 Medtronic Twin Cities Marathon"
+excerpt: "<br/><img src='/images/TCM2021.png'>"
 collection: fun
 ---
 
-August 2020
-Acrylic
+October 3, 2021   
+Race Time: 5:10:12
 
-<img src='/images/flowers.jpg'>
+<img src='/images/TCM2021.png'>
