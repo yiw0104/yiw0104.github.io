@@ -12,7 +12,7 @@ I am a postdoc at the Brown School of Social Work at Washington University in St
 
 I received my Ph.D. in Public Affairs with a minor in Population Studies from the University of Minnesota in 2023. Before coming to the United States, I earned my master’s degree in urban planning from Tsinghua University, China.
 
-My research interests fall broadly in the areas of housing, urban planning, and population health.
+My research interests fall broadly in the areas of housing, eviction, and population health.
 
 Please feel free to contact me at: yiw1@wustl.edu
 
