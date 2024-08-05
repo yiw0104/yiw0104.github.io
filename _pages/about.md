@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a [postdoc](https://prcstl.wustl.edu/people/yi-wang/) at the Brown School of Social Work at Washington University in St. Louis. I am also a research associate on the [Evicted in Oregon](https://www.evictedinoregon.com) project at Portland State University. 
+I am a [postdoctoral research associate](https://prcstl.wustl.edu/people/yi-wang/) at the Brown School of Social Work at Washington University in St. Louis. I am also a research associate on the [Evicted in Oregon](https://www.evictedinoregon.com) project at Portland State University. 
 
 I received my Ph.D. in Public Affairs with a minor in Population Studies from the University of Minnesota in 2023. Before coming to the United States, I earned my master’s degree in urban planning from Tsinghua University, China.
 
