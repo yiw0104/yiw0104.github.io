@@ -14,7 +14,7 @@ I received my Ph.D. in Public Affairs with a minor in Population Studies from th
 
 My research interests fall broadly in the areas of housing policy, eviction, population health, and environmental justice. My academic work in these areas is published or forthcoming in Housing Policy Debate, Cities, and Socius. 
 
-My research has been covered by [the Oregonian/OregonLive](https://www.oregonlive.com/business/2024/09/oregon-affordable-housing-landlords-filed-thousands-of-evictions-in-recent-years-study-finds.html) and [KOIN 6](https://www.youtube.com/watch?v=I0aVad4vxhk).
+My research on [subsidized housing eviction](https://archives.pdx.edu/ds/psu/42570) has been covered by [the Oregonian/OregonLive](https://www.oregonlive.com/business/2024/09/oregon-affordable-housing-landlords-filed-thousands-of-evictions-in-recent-years-study-finds.html) and [KOIN 6](https://www.youtube.com/watch?v=I0aVad4vxhk).
 
 Please feel free to contact me at: yiw1@wustl.edu
 
