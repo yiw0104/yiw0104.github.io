@@ -62,7 +62,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  "profile2023.jpg"
+og_image                 :  "profile2024.jpg"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Yi Wang"
-  avatar           : "profile2023.jpg"
+  avatar           : "profile2024.jpg"
   bio              : "She/Her/Hers"
   location         : "St. Louis, MO"
   employer         :
@@ -102,7 +102,7 @@ author:
   instagram        : "pumpkinw0104"
   impactstory      : # "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/yi-wang-339a36150/"
   orcid            : "https://orcid.org/0000-0002-1486-5051"
   pinterest        :
   soundcloud       :
