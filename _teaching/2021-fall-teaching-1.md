@@ -8,7 +8,7 @@ date: 2021-09-01
 location: "Minneapolis, MN"
 ---
 
-/ [ClassInfo](http://classinfo.umn.edu/?wang8262+PA5932) / [Student Rating of Teaching Report](https://yiw0104.github.io/files/SRT_PA5932_Fall2021.pdf) /
+/ [Syllabus](https://yiw0104.github.io/files/22F_PA5932_Syllabus_YW_0928.pdf) / [Student Rating of Teaching Report](https://yiw0104.github.io/files/SRT_PA5932_Fall2021.pdf) /
 
 This course will teach you how to find, download, manipulate, combine, and organize quantitative data to answer policy questions in efficient ways. You will gain hands-on experience working in Excel and Stata through class exercises and assignments. You will also be able to apply the skills learned to your own policy analysis. The software applications used in this class include Excel, Stata, and Adobe Illustrator.
 
