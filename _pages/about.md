@@ -12,7 +12,7 @@ I am a [postdoctoral research associate](https://sites.wustl.edu/peoplehealthand
 
 I earned my Ph.D. in Public Affairs with a minor in Population Studies from the University of Minnesota in 2023. Prior to my time in the United States, I obtained my master’s degree in urban planning from Tsinghua University in 2018.
 
-My research interests include housing policy, eviction, population health, and environmental justice. My academic work in these fields has been published in Housing Policy Debate, Cities, Socius, and Cities & Health. 
+My research interests include housing policy, eviction, population health, and environmental justice. My academic work in these fields has been published in Cities, Housing Policy Debate, Socius, and Cities & Health. 
 
 My research on [subsidized housing evictions](https://archives.pdx.edu/ds/psu/42570) has been covered by [the Oregonian/OregonLive](https://www.oregonlive.com/business/2024/09/oregon-affordable-housing-landlords-filed-thousands-of-evictions-in-recent-years-study-finds.html) and [KOIN 6](https://www.youtube.com/watch?v=I0aVad4vxhk).
 
