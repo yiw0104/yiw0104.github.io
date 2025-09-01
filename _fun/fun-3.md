@@ -1,10 +1,10 @@
 ---
-title: "2022 Medtronic Twin Cities Marathon"
-excerpt: "<br/><img src='/images/TCM2022.jpg'>"
+title: "2023 Goldy's Run"
+excerpt: "<br/><img src='/images/GR2023.jpg'>"
 collection: fun
 ---
 
-Oct 2, 2022   
-Race Time: 04:57:48
+Apr 2, 2023
+Race Time: 1:50:27
 
-<img src="/images/TCM2022.jpg">
+<img src="/images/GR2023.jpg">

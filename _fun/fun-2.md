@@ -1,10 +1,10 @@
 ---
-title: "2023 Goldy's Run"
-excerpt: "<br/><img src='/images/GR2023.jpg'>"
+title: "2023 Portland Marathon"
+excerpt: "<br/><img src='/images/PM2023.jpg'>"
 collection: fun
 ---
 
-Apr 2, 2023
-Race Time: 1:50:27
+Oct 1, 2023   
+Race Time: 05:06:05
 
-<img src="/images/GR2023.jpg">
+<img src="/images/PM2023.jpg">

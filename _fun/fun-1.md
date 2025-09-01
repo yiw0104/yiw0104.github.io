@@ -1,10 +1,10 @@
 ---
-title: "2023 Portland Marathon"
-excerpt: "<br/><img src='/images/PM2023.jpg'>"
+title: "2024 The Great GO! St. Louis Halloween Race "
+excerpt: "<br/><img src='/images/STLHM2024.jpg'>"
 collection: fun
 ---
 
-Oct 1, 2023   
-Race Time: 05:06:05
+Oct 19, 2024  
+Race Time: 02:36:18
 
-<img src="/images/PM2023.jpg">
+<img src="/images/STLHM2024.jpg">
