@@ -1,20 +1,20 @@
 ---
 permalink: /
-title: "Yi Wang, Ph.D."
-excerpt: "Yi Wang, Ph.D."
+title: "Yi Wang, Ph.D. - Housing Policy, Eviction, and Population Health"
+excerpt: "Yi Wang, Ph.D. - Housing Policy, Eviction, and Population Health"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-## Yi Wang, Ph.D. \| Research on Housing Policy, Eviction, and Population Health
+# 👋🏼 Welcome!
 
 I am a [postdoctoral research associate](https://sites.wustl.edu/peoplehealthandplaceunitstlouis/people/yi-wang/) at **Washington University’s Prevention Research Center**, leading research projects on the intersections of housing policy, eviction, and population health. My academic work has been published in *Cities*, *Housing Policy Debat*, *Socius*, and *Cities & Health*.
 
 ***
 
-## Core Research Areas
+# 🏘️ Core Research Areas
 
 * **Landlord Behaviors**: Investigating property owner and manager behaviors, including eviction filings, housing code violations, and the use of risky home financing arrangements such as **Contract for Deed (CFD) and Rent-to-Own (RTO)**.
 
@@ -22,11 +22,11 @@ I am a [postdoctoral research associate](https://sites.wustl.edu/peoplehealthand
 
 ***
 
-## Previous Research
+# 📚 Previous Research
 
 Prior to my current role, I served as a Senior Research Associate on the highly-cited **Evicted in Oregon** research team at Portland State University. My work there focused on eviction patterns within subsidized housing programs and evaluating the implementation of the Oregon Emergency Rental Assistance Program during the COVID-19 pandemic.
 
-### Media Coverage Highlights
+## Media Coverage Highlights
 My research on subsidized housing evictions—which found **over 5,400 eviction cases were filed in state subsidized housing from 2019 to 2023**—has been featured in major news outlets:
 
 * **The Oregonian/OregonLive:** "[Oregon affordable housing landlords filed thousands of evictions in recent years, study finds](https://www.oregonlive.com/business/2024/09/oregon-affordable-housing-landlords-filed-thousands-of-evictions-in-recent-years-study-finds.html)"
@@ -35,13 +35,13 @@ My research on subsidized housing evictions—which found **over 5,400 eviction 
 
 ***
 
-## Education
+# 🎓 Education
 
 * **Ph.D. in Public Affairs** (Minor in Population Studies) – University of Minnesota (2023)
 * **Master in Urban Planning** – Tsinghua University (2018)
 
 ***
 
-## Contact
+# 📧 Contact
 
 Please feel free to contact me at: **yiw1@wustl.edu**
