@@ -13,17 +13,19 @@ I am a [postdoctoral research associate](https://sites.wustl.edu/peoplehealthand
 
 ***
 
-# 🏘️ Research Areas
+# 🏘️ Current Research Areas
 
-* **Landlord Behaviors**: Investigating property owner and manager behaviors, including eviction filings, housing code violations, and the use of risky home financing arrangements such as **Contract for Deed (CFD) and Rent-to-Own (RTO)**.
+* **Landlord Behaviors**: Investigating property owner and manager behaviors, including eviction filings, housing code violations, and the use of risky home financing arrangements such as Contract for Deed (CFD) and Rent-to-Own (RTO).
 
-* **Housing and Health**: Examining the impacts of housing policies on people's health and well-being, with a focus on the U.S. **Choice Neighborhoods Initiative (CNI)** and Brazil's **Minha Casa, Minha Vida (MCMV)** program.
+* **Eviction Prevention**: Studying the impacts of eviction prevention programs such as tenant Right to Counsel (RTC), the COVID-19 eviction moratoriums, and Emergency Rental Assistance (ERA) programs.
+
+* **Housing and Health**: Examining the impacts of housing policies on people's health and well-being, with a focus on the U.S. Choice Neighborhoods Initiative (CNI) and Brazil's Minha Casa, Minha Vida (MCMV) program.
 
 ***
 
 # 📚 Previous Research
 
-Previously, I was a senior research associate on the [Evicted in Oregon](https://www.evictedinoregon.com) research team at Portland State University, where I studied [evictions in subsidized housing](https://pdxscholar.library.pdx.edu/cus_pubs/156/) and the implementation of the Oregon Emergency Rental Assistance Program during the COVID-19 pandemic.
+Previously, I was a senior research associate on the [Evicted in Oregon](https://www.evictedinoregon.com) research team at Portland State University, where I studied [evictions in subsidized housing](https://pdxscholar.library.pdx.edu/cus_pubs/156/) and the implementation of the Oregon ERA Program during the COVID-19 pandemic.
 
 ***
 
