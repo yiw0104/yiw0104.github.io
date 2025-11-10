@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yi Wang, Ph.D. - Housing and Health"
+title: "👋🏼 Welcome!"
 excerpt: "Yi Wang, Ph.D. - Housing and Health"
 author_profile: true
 redirect_from: 
@@ -13,7 +13,7 @@ I am a [postdoctoral research associate](https://sites.wustl.edu/peoplehealthand
 
 ***
 
-# 🏘️ Core Research Areas
+# 🏘️ Research Areas
 
 * **Landlord Behaviors**: Investigating property owner and manager behaviors, including eviction filings, housing code violations, and the use of risky home financing arrangements such as **Contract for Deed (CFD) and Rent-to-Own (RTO)**.
 
