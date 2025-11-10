@@ -1,14 +1,14 @@
 ---
 permalink: /
-title: "Yi Wang, Ph.D. | Research on Housing Policy, Eviction, and Population Health"
-excerpt: "Postdoctoral Research Associate focusing on the intersections of housing policy, eviction, and population health."
+title: "Yi Wang, Ph.D."
+excerpt: "Yi Wang, Ph.D."
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-## 👋 Welcome
+## Yi Wang, Ph.D. \| Research on Housing Policy, Eviction, and Population Health
 
 I am a [postdoctoral research associate](https://sites.wustl.edu/peoplehealthandplaceunitstlouis/people/yi-wang/) at **Washington University’s Prevention Research Center**, leading research projects on the intersections of housing policy, eviction, and population health. My academic work has been published in *Cities*, *Housing Policy Debat*, *Socius*, and *Cities & Health*.
 
