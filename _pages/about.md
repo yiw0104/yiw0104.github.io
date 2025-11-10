@@ -10,31 +10,19 @@ redirect_from:
 
 ## 👋 Welcome
 
-I am a **Postdoctoral Research Associate** at **Washington University’s Prevention Research Center** in St. Louis. My research is dedicated to understanding the complex, systemic intersections of **housing policy, eviction, and population health**.
-
-My academic work employs quantitative and spatial analysis to inform equitable policy solutions, with a focus on vulnerable populations. Findings have been published in journals such as *Cities*, *Housing Policy Debate*, *Socius*, and *Cities & Health*.
+I am a [postdoctoral research associate](https://sites.wustl.edu/peoplehealthandplaceunitstlouis/people/yi-wang/) at **Washington University’s Prevention Research Center**, leading research projects on the intersections of housing policy, eviction, and population health. My academic work has been published in *Cities*, *Housing Policy Debat*, *Socius*, and *Cities & Health*.
 
 ***
 
-## 🔬 Core Research Areas
+## Core Research Areas
 
-My research program is built around two primary, interconnected themes:
+* **Landlord Behaviors**: Investigating property owner and manager behaviors, including eviction filings, housing code violations, and the use of risky home financing arrangements such as **Contract for Deed (CFD) and Rent-to-Own (RTO)**.
 
-### 1. Landlord-Tenant Dynamics & Housing Stability
-Investigating the structural factors that shape property owner and manager behavior, and their downstream effects on housing stability.
-
-* **Eviction and Housing Code Violations:** Analyzing the patterns and determinants of eviction filings and housing code non-compliance.
-* **Informal Home Financing:** Studying the prevalence and impact of risky housing arrangements like **Contract for Deed (CFD) and Rent-to-Own (RTO)** on low-income households.
-
-### 2. Housing Policy & Population Health
-Examining the causal impacts of large-scale housing and neighborhood development policies on individual and community health and well-being.
-
-* **U.S. Choice Neighborhoods Initiative (CNI):** Evaluating the health and equity outcomes associated with neighborhood revitalization efforts.
-* **Brazil's Minha Casa, Minha Vida (MCMV):** Assessing the long-term health and social impacts of this national social housing program.
+* **Housing and Health**: Examining the impacts of housing policies on people's health and well-being, with a focus on the U.S. **Choice Neighborhoods Initiative (CNI)** and Brazil's **Minha Casa, Minha Vida (MCMV)** program.
 
 ***
 
-## 📚 Previous Research: Evicted in Oregon
+## Previous Research
 
 Prior to my current role, I served as a Senior Research Associate on the highly-cited **Evicted in Oregon** research team at Portland State University. My work there focused on eviction patterns within subsidized housing programs and evaluating the implementation of the Oregon Emergency Rental Assistance Program during the COVID-19 pandemic.
 
@@ -47,13 +35,13 @@ My research on subsidized housing evictions—which found **over 5,400 eviction 
 
 ***
 
-## 🎓 Education
+## Education
 
 * **Ph.D. in Public Affairs** (Minor in Population Studies) – University of Minnesota (2023)
 * **Master in Urban Planning** – Tsinghua University (2018)
 
 ***
 
-## 📧 Contact
+## Contact
 
 Please feel free to contact me at: **yiw1@wustl.edu**
