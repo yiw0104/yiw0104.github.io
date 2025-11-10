@@ -29,7 +29,7 @@ Previously, I was a senior research associate on the [Evicted in Oregon](https:/
 
 # 📺 Media Coverage
 
-My research on subsidized housing evictions—which found **over 5,400 eviction cases were filed in state subsidized housing from 2019 to 2023**—has been featured in major news outlets:
+My research on subsidized housing evictions has been featured in major news outlets:
 
 * **The Oregonian/OregonLive:** "[Oregon affordable housing landlords filed thousands of evictions in recent years, study finds](https://www.oregonlive.com/business/2024/09/oregon-affordable-housing-landlords-filed-thousands-of-evictions-in-recent-years-study-finds.html)"
 * **KOIN 6 News (Video):** "[Oregon saw over 5K recent affordable housing eviction filings, PSU finds](https://www.youtube.com/watch?v=I0aVad4vxhk)"
