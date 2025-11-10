@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Yi Wang, Ph.D. - Housing Policy, Eviction, and Population Health"
-excerpt: "Yi Wang, Ph.D. - Housing Policy, Eviction, and Population Health"
+title: "Yi Wang, Ph.D. - Housing and Health"
+excerpt: "Yi Wang, Ph.D. - Housing and Health"
 author_profile: true
 redirect_from: 
   - /about/
