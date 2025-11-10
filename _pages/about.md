@@ -14,7 +14,7 @@ I am a [postdoctoral research associate](https://sites.wustl.edu/peoplehealthand
 
 * **Landlord Behaviors**: Investigating property owner and manager behaviors, including eviction filings, housing code violations, and the use of risky home financing arrangements such as **Contract for Deed (CFD) and Rent-to-Own (RIO)**.
 
-* **Housing Policy Impact**: Evaluating the impacts of housing policies on people's health and well-being, with a focus on the U.S. **Choice Neighborhoods Initiative (CNI)** and Brazil's **Minha Casa, Minha Vida (MCMV)** program.
+* **Housing and Health**: Examining the impacts of housing policies on people's health and well-being, with a focus on the U.S. **Choice Neighborhoods Initiative (CNI)** and Brazil's **Minha Casa, Minha Vida (MCMV)** program.
 
 Previously, I was a senior research associate on the [Evicted in Oregon](https://www.evictedinoregon.com) research team at Portland State University, where I studied evictions in subsidized housing and the implementation of the Oregon Emergency Rental Assistance Program during the COVID-19 pandemic. 
 
