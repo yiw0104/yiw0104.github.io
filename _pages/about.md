@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "🏘️ Yi Wang, Ph.D. | Housing, Eviction, and Health"
-excerpt: "🏘️ Yi Wang, Ph.D. | Housing, Eviction, and Health"
+title: "🏘️ Yi Wang, Ph.D. \| Housing, Eviction, and Health"
+excerpt: "🏘️ Yi Wang, Ph.D. \| Housing, Eviction, and Health"
 author_profile: true
 redirect_from: 
   - /about/
