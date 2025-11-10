@@ -12,7 +12,7 @@ I am a [postdoctoral research associate](https://sites.wustl.edu/peoplehealthand
 
 # Core Research Areas
 
-* **Landlord Behaviors**: Investigating property owner and manager behaviors, including eviction filings, housing code violations, and the use of risky home financing arrangements such as **Contract for Deed (CFD) and Rent-to-Own (RIO)**.
+* **Landlord Behaviors**: Investigating property owner and manager behaviors, including eviction filings, housing code violations, and the use of risky home financing arrangements such as **Contract for Deed (CFD) and Rent-to-Own (RTO)**.
 
 * **Housing and Health**: Examining the impacts of housing policies on people's health and well-being, with a focus on the U.S. **Choice Neighborhoods Initiative (CNI)** and Brazil's **Minha Casa, Minha Vida (MCMV)** program.
 
