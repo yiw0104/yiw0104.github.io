@@ -17,7 +17,7 @@ I am a [postdoctoral research associate](https://sites.wustl.edu/peoplehealthand
 
 * **Landlord Behaviors**: Investigating property owner and manager behaviors, including eviction filings, housing code violations, and the use of risky home financing arrangements such as Contract for Deed (CFD) and Rent-to-Own (RTO).
 
-* **Eviction Prevention**: Studying the impacts of eviction prevention programs such as tenant Right to Counsel (RTC), the COVID-19 eviction moratoriums, and Emergency Rental Assistance (ERA) programs.
+* **Eviction Prevention**: Assessing the effectiveness of eviction prevention initiatives, including tenant Right to Counsel (RTC) programs, COVID-19 eviction moratoriums, and Emergency Rental Assistance (ERA) programs.
 
 * **Housing and Health**: Examining the impacts of housing policies on people's health and well-being, with a focus on the U.S. Choice Neighborhoods Initiative (CNI) and Brazil's Minha Casa, Minha Vida (MCMV) program.
 
