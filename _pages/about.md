@@ -25,6 +25,10 @@ I am a [postdoctoral research associate](https://sites.wustl.edu/peoplehealthand
 
 Previously, I was a senior research associate on the [Evicted in Oregon](https://www.evictedinoregon.com) research team at Portland State University, where I studied evictions in subsidized housing and the implementation of the Oregon Emergency Rental Assistance Program during the COVID-19 pandemic.
 
+***
+
+# 📺 Media Coverage
+
 My research on subsidized housing evictions—which found **over 5,400 eviction cases were filed in state subsidized housing from 2019 to 2023**—has been featured in major news outlets:
 
 * **The Oregonian/OregonLive:** "[Oregon affordable housing landlords filed thousands of evictions in recent years, study finds](https://www.oregonlive.com/business/2024/09/oregon-affordable-housing-landlords-filed-thousands-of-evictions-in-recent-years-study-finds.html)"
