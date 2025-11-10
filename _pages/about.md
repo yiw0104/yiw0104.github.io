@@ -1,20 +1,20 @@
 ---
 permalink: /
-title: "Welcome!"
-excerpt: "Welcome!"
+title: "🏘️ Yi Wang, Ph.D. | Housing, Eviction, and Health"
+excerpt: "🏘️ Yi Wang, Ph.D. | Housing, Eviction, and Health"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a [postdoctoral research associate](https://sites.wustl.edu/peoplehealthandplaceunitstlouis/people/yi-wang/) at **Washington University’s Prevention Research Center**, specializing in the critical intersections of **housing policy, eviction, and population health**. My academic work has been published in Cities, Housing Policy Debate, Socius, and Cities & Health. 
+I am a [postdoctoral research associate](https://sites.wustl.edu/peoplehealthandplaceunitstlouis/people/yi-wang/) at **Washington University’s Prevention Research Center**, leading research projects on the intersections of housing policy, eviction, and population health. My academic work has been published in *Cities*, *Housing Policy Debat*, *Socius*, and *Cities & Health*. 
 
-My current research agenda is focused on two core areas:
+# Core Research Areas
 
-* **Landlord Behaviors**: Investigating property owner and manager behaviors, including **eviction filings, housing code violations**, and the use of alternative tenure arrangements such as **contract for deed and rent-to-own**.
+* **Landlord Behaviors**: Investigating property owner and manager behaviors, including eviction filings, housing code violations, and the use of risky home financing arrangements such as **Contract for Deed (CFD) and Rent-to-Own (RIO)**.
 
-* **Housing Policy Impact**: Analyzing the effects of housing policies on people's health and well-being, with a focus on the U.S. **Choice Neighborhoods Initiative (CNI)** and Brazil's **Minha Casa, Minha Vida (MCMV)** program.
+* **Housing Policy Impact**: Evaluating the impacts of housing policies on people's health and well-being, with a focus on the U.S. **Choice Neighborhoods Initiative (CNI)** and Brazil's **Minha Casa, Minha Vida (MCMV)** program.
 
 Previously, I was a senior research associate on the [Evicted in Oregon](https://www.evictedinoregon.com) research team at Portland State University, where I studied evictions in subsidized housing and the implementation of the Oregon Emergency Rental Assistance Program during the COVID-19 pandemic. 
 
