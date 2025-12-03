@@ -19,7 +19,7 @@ I am a [postdoctoral research associate](https://sites.wustl.edu/peoplehealthand
 
 * **Eviction Prevention**: Assessing the effectiveness of eviction prevention initiatives, including tenant Right to Counsel (RTC) programs, COVID-19 eviction moratoriums, and Emergency Rental Assistance (ERA) programs.
 
-* **Housing and Health**: Examining the impacts of housing policies on people's health and well-being, with a focus on the U.S. Choice Neighborhoods Initiative (CNI) and Brazil's Minha Casa, Minha Vida (MCMV) program.
+* **Housing, Climate Resilience, and Health**: Examining the connections between affordable housing programs, community resilience to extreme weather events, and residents' health, with a focus on the U.S. Choice Neighborhoods Initiative (CNI) and Brazil's Minha Casa, Minha Vida (MCMV) program.
 
 ***
 
