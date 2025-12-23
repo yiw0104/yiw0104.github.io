@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yi Wang"
+title                    : "Yi Wang, Ph.D."
 title_separator          : "-"
-name                     : &name "Yi Wang"
-description              : &description "PhD Candidate at the University of Minnesota"
+name                     : &name "Yi Wang, Ph.D."
+description              : &description "Postdoc at Washington University in St. Louis"
 url                      : https://yiw0104.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yiw0104.github.io"
