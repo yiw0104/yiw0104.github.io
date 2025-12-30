@@ -1,5 +1,5 @@
 ---
-title: "2024 The Great GO! St. Louis Halloween Race "
+title: "2024 Great GO! St. Louis Halloween Race Half Marathon"
 excerpt: "<br/><img src='/images/STLHM2024.jpg'>"
 collection: fun
 ---

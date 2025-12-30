@@ -1,5 +1,5 @@
 ---
-title: "2023 Goldy's Run"
+title: "2023 Goldy's Run 10 Mile"
 excerpt: "<br/><img src='/images/GR2023.jpg'>"
 collection: fun
 ---
