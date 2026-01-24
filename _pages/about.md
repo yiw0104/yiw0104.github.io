@@ -15,7 +15,7 @@ I am a [postdoctoral research associate](https://sites.wustl.edu/peoplehealthand
 
 # 🏘️ Current Research Areas
 
-* **Landlord Behaviors**: Investigating property owner and manager behaviors, including eviction filings, housing code violations, and the use of risky home financing arrangements such as Contract for Deed (CFD) and Rent-to-Own (RTO).
+* **Landlord Behaviors**: Investigating property owner and manager behaviors, including eviction filings, housing code violations, and the use of alterantive home financing arrangements such as Contract for Deed (CFD) and Rent-to-Own (RTO).
 
 * **Eviction Prevention**: Assessing the effectiveness of eviction prevention initiatives, including tenant Right to Counsel (RTC) programs, COVID-19 eviction moratoriums, and Emergency Rental Assistance (ERA) programs.
 
