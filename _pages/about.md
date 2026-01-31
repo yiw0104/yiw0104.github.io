@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a [postdoctoral research associate](https://sites.wustl.edu/peoplehealthandplaceunitstlouis/people/yi-wang/) at **Washington University’s Prevention Research Center**. My research interests focus on the intersections of housing policy, eviction, and population health. My academic work has been published in *Cities*, *Housing Policy Debate*, *Socius*, *Journal of Physical Activity and Health*, and *Cities & Health*.
+I am a [postdoctoral research associate](https://sites.wustl.edu/peoplehealthandplaceunitstlouis/people/yi-wang/) at **Washington University’s Prevention Research Center**. My research interests focus on the intersections of housing policy, eviction, and population health. My academic work has been published in *Journal of Planning Education and Research*, *Cities*, *Housing Policy Debate*, *Socius*, *Journal of Physical Activity and Health*, and *Cities & Health*.
 
 ***
 
