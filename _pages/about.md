@@ -13,7 +13,7 @@ I am a [postdoctoral research associate](https://sites.wustl.edu/peoplehealthand
 
 ***
 
-# 🏘️ Research Areas
+# 📚 Research Areas
 
 * **Landlord Behaviors**: Investigating property owner and manager behaviors, including eviction filings, housing code violations, and the use of alterantive home financing arrangements such as Contract for Deed (CFD) and Rent-to-Own (RTO).
 
@@ -23,15 +23,9 @@ I am a [postdoctoral research associate](https://sites.wustl.edu/peoplehealthand
 
 ***
 
-# 📚 Subsidized Housing Evictions
-
-Previously, I was a senior research associate on the [Evicted in Oregon](https://www.evictedinoregon.com) research team at Portland State University, where I studied [evictions in subsidized housing](https://pdxscholar.library.pdx.edu/cus_pubs/156/) and the implementation of the Oregon ERA Program during the COVID-19 pandemic.
-
-***
-
 # 📺 Media Coverage
 
-My research on subsidized housing evictions has been featured in:
+My research on [subsidized housing evictions](https://pdxscholar.library.pdx.edu/cus_pubs/156/) has been featured in:
 
 * **The Oregonian/OregonLive:** "[Oregon affordable housing landlords filed thousands of evictions in recent years, study finds](https://www.oregonlive.com/business/2024/09/oregon-affordable-housing-landlords-filed-thousands-of-evictions-in-recent-years-study-finds.html)"
 * **KOIN 6 News (Video):** "[Oregon saw over 5K recent affordable housing eviction filings, PSU finds](https://www.youtube.com/watch?v=I0aVad4vxhk)"
