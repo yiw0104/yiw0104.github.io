@@ -9,17 +9,17 @@ redirect_from:
 ---
 
 
-I am a [postdoctoral research associate](https://sites.wustl.edu/peoplehealthandplaceunitstlouis/people/yi-wang/) at Washington University’s School of Public Health. **My research examines how problematic landlord behaviors—such as frequent eviction filings and risky home financing arrangements—emerge and operate, with the goal of informing housing policies to better protect tenants’ residential stability and well‑being.** My academic work has been published in *Housing Policy Debate*, *Journal of Planning Education and Research*, *Cities*, *Socius*, *Journal of Physical Activity and Health*, and *Cities & Health*.
+I am a [postdoctoral research associate](https://sites.wustl.edu/peoplehealthandplaceunitstlouis/people/yi-wang/) at Washington University’s School of Public Health. **My research examines how landlord practices—such as evictions and alternative home financing—emerge and operate, with the goal of informing housing policies to better protect tenants.** My academic work has been published in *Housing Policy Debate*, *Journal of Planning Education and Research*, *Cities*, *Socius*, *Journal of Physical Activity and Health*, and *Cities & Health*.
 
 ***
 
 # 📚 Research Areas
 
-* **Landlord Behaviors**: Investigating property owner and manager behaviors, including eviction filings, housing code violations, and the use of alterantive home financing arrangements such as Contract for Deed (CFD) and Rent-to-Own (RTO).
+* **Landlord Practices**: Investigating the patterns of landlord practices, including eviction filings, housing code violations, and the use of alterantive home financing such as Contract for Deed (CFD) and Rent-to-Own (RTO).
 
 * **Eviction Prevention**: Assessing the effectiveness of eviction prevention initiatives, including tenant Right to Counsel (RTC) programs, COVID-19 eviction moratoriums, and Emergency Rental Assistance (ERA) programs.
 
-* **Housing, Climate Resilience, and Health**: Examining the connections between affordable housing programs, community resilience to extreme weather events, and residents' health, with a focus on the U.S. Choice Neighborhoods Initiative (CNI) and Brazil's Minha Casa, Minha Vida (MCMV) program.
+* **Housing, Climate Resilience, and Health**: Examining the connections between affordable housing programs, community resilience to extreme weather events, and residents' health, with a focus on the U.S. Choice Neighborhoods Initiative (CNI) and Brazil's Minha Casa, Minha Vida (MCMV).
 
 ***
 
