@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a [postdoctoral research associate](https://sites.wustl.edu/peoplehealthandplaceunitstlouis/people/yi-wang/) at Washington University’s School of Public Health. **My research examines how landlord practices—such as evictions and alternative home financing—emerge and operate, with the goal of informing housing policies to better protect tenants.** My academic work has been published in *Housing Policy Debate*, *Journal of Planning Education and Research*, *Cities*, *Socius*, *Journal of Physical Activity and Health*, and *Cities & Health*.
+I am a [postdoctoral research associate](https://sites.wustl.edu/peoplehealthandplaceunitstlouis/people/yi-wang/) at Washington University’s School of Public Health. **My research examines how problematic landlord practices—such as frequent evictions and the use of risky home financing arrangements—emerge and operate, with the goal of informing housing policies to better protect tenants.** My academic work has been published in *Housing Policy Debate*, *Journal of Planning Education and Research*, *Cities*, *Socius*, *Journal of Physical Activity and Health*, and *Cities & Health*.
 
 ***
 
