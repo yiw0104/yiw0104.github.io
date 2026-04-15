@@ -15,7 +15,7 @@ I am a [postdoctoral research associate](https://sites.wustl.edu/peoplehealthand
 
 # 📚 Research Areas
 
-* **Landlord Practices**: Investigating the patterns of landlord practices, including eviction filings, housing code violations, and alternative home financing arrangements such as Contract for Deed (CFD) and Rent-to-Own (RTO).
+* **Landlord Practices**: Investigating the patterns of landlord practices, including eviction filings, housing code violations, and the use of alternative home financing arrangements such as Contract for Deed (CFD) and Rent-to-Own (RTO).
 
 * **Eviction Prevention**: Assessing the effectiveness of eviction prevention initiatives, including tenant Right to Counsel (RTC) programs, COVID-19 eviction moratoriums, and Emergency Rental Assistance (ERA) programs.
 
