@@ -11,7 +11,7 @@ redirect_from:
 
 Housing instability shapes health, wealth, and opportunity for millions of Americans — yet the landlord practices that drive it remain poorly understood. **Using administrative data linking, spatial analytics, and quasi-experimental methods, I study how problematic landlord practices — such as frequent evictions and the use of risky home financing arrangements — emerge and operate, with the goal of informing housing policies to better protect tenants.** 
 
-My research spans social policy, urban planning, and public health, and has been published in *Housing Policy Debate*, *Journal of Planning Education and Research*, *Cities*, *Journal of Urban Affairs*, *Socius*, *Journal of Physical Activity and Health*, and *Cities & Health*.
+My research spans housing policy, urban planning, and public health, and has been published in *Housing Policy Debate*, *Journal of Planning Education and Research*, *Cities*, *Journal of Urban Affairs*, *Socius*, *Journal of Physical Activity and Health*, and *Cities & Health*.
 
 ***
 
