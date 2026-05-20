@@ -9,7 +9,11 @@ redirect_from:
 ---
 
 
-I am a [postdoctoral research associate](https://sites.wustl.edu/peoplehealthandplaceunitstlouis/people/yi-wang/) at Washington University’s Bursky School of Public Health. **My research examines how problematic landlord practices—such as frequent evictions and the use of risky home financing arrangements—emerge and operate, with the goal of informing housing policies to better protect tenants.** My academic work has been published in *Housing Policy Debate*, *Journal of Planning Education and Research*, *Cities*, *Journal of Urban Affairs*, *Socius*, *Journal of Physical Activity and Health*, and *Cities & Health*.
+I am a [postdoctoral research associate](https://sites.wustl.edu/peoplehealthandplaceunitstlouis/people/yi-wang/) at Washington University’s Bursky School of Public Health. 
+
+Housing instability shapes health, wealth, and opportunity for millions of Americans — yet the landlord practices that drive it remain poorly understood. **I study how problematic landlord practices—such as frequent evictions and the use of risky home financing arrangements—emerge and operate, with the goal of informing housing policies to better protect tenants.** 
+
+My research spans public affairs, urban planning, and public health, and has been published in *Housing Policy Debate*, *Journal of Planning Education and Research*, *Cities*, *Journal of Urban Affairs*, *Socius*, *Journal of Physical Activity and Health*, and *Cities & Health*.
 
 ***
 
