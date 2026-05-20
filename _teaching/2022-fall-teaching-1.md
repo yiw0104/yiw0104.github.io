@@ -2,13 +2,13 @@
 title: "Instructor - PA 5932 Working with Data: Finding, Managing, and Using Data"
 collection: teaching
 type: "Graduate-level course"
-permalink: /teaching/2021-fall-teaching-1
+permalink: /teaching/2022-fall-teaching-1
 venue: "University of Minnesota"
-date: 2021-09-01
+date: 2022-09-01
 location: "Minneapolis, MN"
 ---
 
-/ [Student Rating of Teaching Report](https://yiw0104.github.io/files/SRT_PA5932_Fall2021.pdf) /
+/ [Syllabus](https://yiw0104.github.io/files/22F_PA5932_Syllabus_YW_0928.pdf) /
 
 This course will teach you how to find, download, manipulate, combine, and organize quantitative data to answer policy questions in efficient ways. You will gain hands-on experience working in Excel and Stata through class exercises and assignments. You will also be able to apply the skills learned to your own policy analysis. The software applications used in this class include Excel, Stata, and Adobe Illustrator.
 
