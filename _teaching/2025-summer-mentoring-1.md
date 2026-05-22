@@ -1,7 +1,7 @@
 ---
 title: "Postdoc Mentor - Center for the Environment Summer Undergraduate Research Program"
 collection: teaching
-type: "summer training program"
+type: "Summer training program"
 permalink: /teaching/2025-summer-mentoring-1
 venue: "Washington University in St. Louis"
 date: 2025-06-01
