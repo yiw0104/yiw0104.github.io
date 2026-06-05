@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Housing instability shapes health, wealth, and opportunity for millions of Americans — yet the landlord practices that drive it remain poorly understood. **Using administrative data linkage, spatial analytics, and quasi-experimental methods, I study how problematic landlord practices emerge and operate, and evaluate whether housing policies aimed at improving residential stability actually work.** 
+Housing instability shapes health, wealth, and opportunity for millions of Americans — yet the landlord practices that drive it remain poorly understood. Using administrative data linkage, spatial analytics, and quasi-experimental methods, I study how problematic landlord practices emerge and operate, and evaluate whether housing policies aimed at improving residential stability actually work.
 
 My research spans public policy, urban planning, and public health, and has been published in *Housing Policy Debate*, *Journal of Planning Education and Research*, *Cities*, *Journal of Urban Affairs*, *Socius*, *Journal of Physical Activity and Health*, and *Cities & Health*.
 
@@ -22,7 +22,7 @@ My research spans public policy, urban planning, and public health, and has been
 * **Eviction Prevention**: Assessing the effectiveness of eviction prevention initiatives, including tenant Right to Counsel (RTC) programs, COVID-19 eviction moratoriums, and Emergency Rental Assistance (ERA) programs. 
   - [St. Louis City Eviction Representation Dashboard](https://yiw0104.github.io/stlrtc-dashboard/)
 
-* **Housing, Climate Resilience, and Health**: Examining the connections between affordable housing programs, community resilience to extreme weather events, and residents' health, with a focus on the U.S. Choice Neighborhoods Initiative (CNI) and Brazil's Minha Casa, Minha Vida (MCMV).
+* **Housing, Climate Resilience, and Health**: Examining the connections between affordable housing programs, community resilience to extreme weather, and residents' health, with a focus on the U.S. Choice Neighborhoods Initiative (CNI) and Brazil's Minha Casa, Minha Vida (MCMV).
   - [MCMV Climate Resilience Tracker](https://sites.wustl.edu/peoplehealthandplaceunitstlouis/mcmv-climate-resilience-tracker/)
 
 ***
