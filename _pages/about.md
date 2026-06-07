@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Housing instability shapes health, wealth, and opportunity for millions of Americans — yet the landlord practices that drive it remain understudied. Using administrative data linkage, spatial analytics, and quasi-experimental methods, I study how problematic landlord practices emerge and operate, and evaluate whether housing policies aimed at improving residential stability actually work.
+Housing instability shapes health, wealth, and opportunity for millions of Americans — yet the landlord practices that drive it remain understudied. **Using administrative data linkage, spatial analytics, and quasi-experimental methods, I examine how problematic landlord practices emerge and operate, and evaluate whether housing policies aimed at improving residential stability actually work.**
 
 My research spans public policy, urban planning, and public health, and has been published in *Housing Policy Debate*, *Journal of Planning Education and Research*, *Cities*, *Journal of Urban Affairs*, *Socius*, *Journal of Physical Activity and Health*, and *Cities & Health*.
 
@@ -39,7 +39,7 @@ My research on [subsidized housing evictions](https://pdxscholar.library.pdx.edu
 
 # Education
 
-* **Ph.D. in Public Affairs** (Minor in Population Studies) – University of Minnesota, Twin Cities
+* **Ph.D. in Public Affairs** – University of Minnesota, Twin Cities
 * **Master in Urban Planning** – Tsinghua University
 * **Bachelor of Engineering in Urban Planning** – Tianjin University
 
