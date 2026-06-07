@@ -9,13 +9,13 @@ redirect_from:
 ---
 
 
-Housing instability shapes health, wealth, and opportunity for millions of Americans — yet the landlord practices that drive it remain poorly understood. Using administrative data linkage, spatial analytics, and quasi-experimental methods, I study how problematic landlord practices emerge and operate, and evaluate whether housing policies aimed at improving residential stability actually work.
+Housing instability shapes health, wealth, and opportunity for millions of Americans — yet the landlord practices that drive it remain understudied. Using administrative data linkage, spatial analytics, and quasi-experimental methods, I study how problematic landlord practices emerge and operate, and evaluate whether housing policies aimed at improving residential stability actually work.
 
 My research spans public policy, urban planning, and public health, and has been published in *Housing Policy Debate*, *Journal of Planning Education and Research*, *Cities*, *Journal of Urban Affairs*, *Socius*, *Journal of Physical Activity and Health*, and *Cities & Health*.
 
 ***
 
-# 📚 Research Areas
+# Research Areas
 
 * **Landlord Practices**: Investigating the patterns of landlord practices, including eviction filings, housing code violations, and the use of alternative home financing arrangements such as Contract for Deed (CFD) and Rent-to-Own (RTO).
 
@@ -27,7 +27,7 @@ My research spans public policy, urban planning, and public health, and has been
 
 ***
 
-# 📺 Media Coverage
+# Media Coverage
 
 My research on [subsidized housing evictions](https://pdxscholar.library.pdx.edu/cus_pubs/156/) has been featured in:
 
@@ -37,13 +37,14 @@ My research on [subsidized housing evictions](https://pdxscholar.library.pdx.edu
 
 ***
 
-# 🎓 Education
+# Education
 
-* **Ph.D. in Public Affairs** (Minor in Population Studies) – University of Minnesota (2023)
-* **Master in Urban Planning** – Tsinghua University (2018)
+* **Ph.D. in Public Affairs** (Minor in Population Studies) – University of Minnesota, Twin Cities
+* **Master in Urban Planning** – Tsinghua University
+* **Bachelor of Engineering in Urban Planning** – Tianjin University
 
 ***
 
-# 📧 Contact
+# Contact
 
 Please feel free to contact me at: **yiw1@wustl.edu**
