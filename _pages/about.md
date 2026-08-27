@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Housing instability shapes health, wealth, and opportunity for millions of Americans — yet the landlord practices that drive it remain understudied. **Using administrative data linkage, spatial analytics, and quasi-experimental methods, I examine how problematic landlord practices emerge and operate, and evaluate whether housing policies aimed at improving residential stability actually work.**
+Housing instability shapes health, wealth, and opportunity for millions of Americans, yet the landlord practices that drive it and the climate hazards that compound it remain understudied. **Using administrative data linkage, spatial analytics, and quasi-experimental methods, I examine how problematic landlord practices emerge and operate, and evaluate whether housing policies aimed at improving residential stability actually work.**
 
 My research spans public policy, urban planning, and public health, and has been published in *Housing Policy Debate*, *Journal of Planning Education and Research*, *Cities*, *Journal of Urban Affairs*, *Socius*, *Journal of Physical Activity and Health*, and *Cities & Health*.
 
@@ -28,6 +28,10 @@ My research spans public policy, urban planning, and public health, and has been
 ***
 
 # Media Coverage
+
+My research on [tenant right to counsel](https://doi.org/10.1080/07352166.2026.2658609) has been featured in:
+
+* **St. Louis Public Radio:** "[A St. Louis program aimed to prevent evictions. A short-term rental fee could help sustain it](https://www.stlpr.org/government-politics-issues/2026-08-27/st-louis-right-counsel-expansion-efforts)"
 
 My research on [subsidized housing evictions](https://pdxscholar.library.pdx.edu/cus_pubs/156/) has been featured in:
 
