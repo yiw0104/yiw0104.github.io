@@ -17,12 +17,12 @@ My research spans public policy, urban planning, and public health, and has been
 
 # Research Areas
 
-* **Landlord Practices**: Investigating the patterns of landlord practices, including eviction filings, housing code violations, and the use of alternative home financing arrangements such as Contract for Deed (CFD) and Rent-to-Own (RTO).
+* **Landlord Practices:** Investigating the patterns of landlord practices, including eviction filings, housing code violations, and the use of alternative home financing arrangements such as Contract for Deed (CFD) and Rent-to-Own (RTO).
 
-* **Eviction Prevention**: Assessing the effectiveness of eviction prevention initiatives, including tenant Right to Counsel (RTC) programs, COVID-19 eviction moratoriums, and Emergency Rental Assistance (ERA) programs. 
+* **Eviction Prevention:** Assessing the effectiveness of eviction prevention initiatives, including tenant Right to Counsel (RTC) programs, COVID-19 eviction moratoriums, and Emergency Rental Assistance (ERA) programs. 
   - [St. Louis City Eviction Representation Dashboard](https://yiw0104.github.io/stlrtc-dashboard/)
 
-* **Housing, Climate Resilience, and Health**: Examining the connections between affordable housing programs, community resilience to extreme weather, and residents' health, with a focus on the U.S. Choice Neighborhoods Initiative (CNI) and Brazil's Minha Casa, Minha Vida (MCMV).
+* **Housing, Climate Resilience, and Health:** Examining the connections between affordable housing programs, community resilience to extreme weather, and residents' health, with a focus on the U.S. Choice Neighborhoods Initiative (CNI) and Brazil's Minha Casa, Minha Vida (MCMV).
   - [MCMV Climate Resilience Tracker](https://sites.wustl.edu/peoplehealthandplaceunitstlouis/mcmv-climate-resilience-tracker/)
 
 ***
@@ -36,7 +36,7 @@ My research on [tenant right to counsel](https://doi.org/10.1080/07352166.2026.2
 My research on [subsidized housing evictions](https://pdxscholar.library.pdx.edu/cus_pubs/156/) has been featured in:
 
 * **The Oregonian/OregonLive:** "[Oregon affordable housing landlords filed thousands of evictions in recent years, study finds](https://www.oregonlive.com/business/2024/09/oregon-affordable-housing-landlords-filed-thousands-of-evictions-in-recent-years-study-finds.html)"
-* **KOIN 6 News (Video):** "[Oregon saw over 5K recent affordable housing eviction filings, PSU finds](https://www.youtube.com/watch?v=I0aVad4vxhk)"
+* **KOIN 6 News:** "[Oregon saw over 5K recent affordable housing eviction filings, PSU finds](https://www.youtube.com/watch?v=I0aVad4vxhk)"
 
 ***
 
