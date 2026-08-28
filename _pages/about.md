@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Housing instability shapes health, wealth, and opportunity for millions of Americans, yet the landlord practices that drive it and the climate hazards that compound it remain understudied. **Using administrative data linkage, spatial analytics, and quasi-experimental methods, I examine how problematic landlord practices emerge and operate, and evaluate whether housing policies aimed at improving residential stability actually work.**
+Housing instability shapes health, wealth, and opportunity for millions of Americans, yet the landlord practices that drive it and the climate hazards that compound it remain understudied. **Using administrative data linkage, spatial analytics, and quasi-experimental methods, I examine how these dynamics emerge and operate, and evaluate whether housing policies aimed at improving residential stability actually work.**
 
 My research spans public policy, urban planning, and public health, and has been published in *Housing Policy Debate*, *Journal of Planning Education and Research*, *Cities*, *Journal of Urban Affairs*, *Socius*, *Journal of Physical Activity and Health*, and *Cities & Health*.
 
@@ -37,7 +37,6 @@ My research on [subsidized housing evictions](https://pdxscholar.library.pdx.edu
 
 * **The Oregonian/OregonLive:** "[Oregon affordable housing landlords filed thousands of evictions in recent years, study finds](https://www.oregonlive.com/business/2024/09/oregon-affordable-housing-landlords-filed-thousands-of-evictions-in-recent-years-study-finds.html)"
 * **KOIN 6 News (Video):** "[Oregon saw over 5K recent affordable housing eviction filings, PSU finds](https://www.youtube.com/watch?v=I0aVad4vxhk)"
-    * *The report highlighted that **one in every 10 evictions** is a person living in low-income subsidized housing and that these subsidized tenants were **more likely to receive an eviction judgment** compared to those in unsubsidized housing.*
 
 ***
 
