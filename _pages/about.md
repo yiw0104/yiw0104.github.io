@@ -10,11 +10,9 @@ redirect_from:
 
 I am a Postdoctoral Research Associate in the Bursky School of Public Health at Washington University in St. Louis. My research asks a central question for housing policy: **how do tenant protection policies, the decisions of housing providers, and the contracts households sign shape housing instability, and what are the consequences for residents?**
 
-Answering it means building data infrastructure from records that rarely meet — eviction court filings, contracts filed as court exhibits, subsidized housing inventories, property records, and voter files — analyzed with quasi-experimental designs, spatial analytics, and text extraction at scale, alongside a parallel strand on where affordable housing is built and what that siting exposes residents to.
-
 ***
 
-# Research
+# Research areas
 
 ### The effectiveness and implementation of tenant protection policies
 
