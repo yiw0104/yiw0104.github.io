@@ -33,7 +33,7 @@ I study how the organizations that own and manage subsidized housing shape wheth
 
 ### How lease and financing contracts structure default and dispossession
 
-I examine how the terms of leases and home financing contracts structure default and dispossession — terms that are rarely observable at scale. In "Built-to-Fail Home Financing," a working paper with Patrick Fowler and Eric Seymour, we recover contract-for-deed and rent-to-own agreements from tens of thousands of eviction case exhibits in St. Louis and Kansas City and link them to property records.
+I examine how the terms of leases and home financing contracts structure default and dispossession. In "Built-to-Fail Home Financing," a working paper with Patrick Fowler and Eric Seymour, we identify contract-for-deed and rent-to-own agreements from tens of thousands of eviction case exhibits in St. Louis and Kansas City and link them to property records.
 
 ### Affordable housing, climate resilience, and health
 
