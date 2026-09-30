@@ -12,7 +12,7 @@ I am a Postdoctoral Research Associate in the Bursky School of Public Health at 
 
 ***
 
-# Research areas
+# Research Areas
 
 ### The effectiveness and implementation of tenant protection policies
 
