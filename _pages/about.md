@@ -37,7 +37,7 @@ I examine how the terms of leases and home financing contracts structure default
 
 ### Affordable housing, climate resilience, and health
 
-With colleagues in public health, I study how the siting of affordable housing shapes residents' exposure to climate hazards and their health, with a focus on the U.S. Choice Neighborhoods Initiative (CNI) and Brazil’s Minha Casa, Minha Vida (MCMV).
+With Rodrigo Reis and colleagues at the People, Health & Place Unit, I study how the siting of affordable housing shapes residents' exposure to climate hazards and their health, with a focus on the U.S. Choice Neighborhoods Initiative (CNI) and Brazil’s Minha Casa, Minha Vida (MCMV).
 
 - [MCMV Climate Resilience Tracker](https://sites.wustl.edu/peoplehealthandplaceunitstlouis/mcmv-climate-resilience-tracker/)
 
