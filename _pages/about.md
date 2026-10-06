@@ -20,7 +20,10 @@ My recent work assesses [Kansas City's tenant right-to-counsel program](https://
 
 *In the news:*
 
+- **Flatland KC:** "[Kansas City Helping Renters Avoid Eviction](https://flatlandkc.org/news-issues/housing/kansas-city-helping-renters-avoid-eviction/)"
+
 - **St. Louis Public Radio:** "[A St. Louis program aimed to prevent evictions. A short-term rental fee could help sustain it](https://www.stlpr.org/government-politics-issues/2026-08-27/st-louis-right-counsel-expansion-efforts)"
+
 
 ### How the decisions of housing providers shape tenant stability
 
